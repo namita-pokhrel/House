@@ -1,1 +1,2 @@
 # House
+The Picture class is a Java Swing-based graphical application that creates, in a descriptive way, a house scene on a window, along with the use of multiple components, such as sky, ground, trees, house, windows, a door, as well as animated smoke from the chimney. Principal features are a timer for repainting and a cyan background. Other principal features are a white ground, brown trunk, green triangular leaves, blue rectangular house with orange roof, plus a dark gray chimney emitting smoke.
